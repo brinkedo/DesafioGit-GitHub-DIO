@@ -1,0 +1,19 @@
+Olá boa tarde!
+
+Segue o desafio proposto pela plataforma!
+
+Neste dasafio eu realizei a criação de um repositório no GITHUB.
+
+Realizei a configuração do Git com os comandos:
+git --config --global user.name <nome de usuario>--> Para nome de usuário 
+git --config --global user.email <email> --> Para o e-mail
+
+Realizei o autenticação do meu git utilizando a autenticação via token, configurado diretamente no git hub, conforme explicado no curso.
+
+*Após isso Clonei, com o Git bash o repositório para minha maquina local, utilizando o comando "git clone <link do repositório>"
+*Após isso Adicionei uma pasta com 2 arquivos de texto.
+*Criado a pasta e os arquivos adicionei a fila de commit, utilizando o comando "git add ." 
+*Adicionado os arquivos comitei os mesmos com o comando "git commit -m "Inclusão das anotações do Curso"
+*Enviei os arquivos para o GitHub com o comando "git push origin main"
+
+Finalizei utilizando todos os conhecimentos adquiridos.
